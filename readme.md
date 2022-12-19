@@ -26,7 +26,7 @@ python: 3.10
 django: 4.1.4  
 
 В виртуальное окружение venv клонировать репозиторий:  
-git clone https://github.com/g3n0m/SkillFactory/F4_RecipeBook.git  
+git clone https://github.com/g3n0m/RecipeBook.git
 
 Затем инсталлировать необходимые для работы проекта пакеты:  
 pip install djangorestframework  
